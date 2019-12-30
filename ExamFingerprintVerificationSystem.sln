@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamFingerprintVerificationSystem", "ExamFingerprintVerificationSystem\ExamFingerprintVerificationSystem.csproj", "{68269151-6EE3-48FC-B5E5-09272283A037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68269151-6EE3-48FC-B5E5-09272283A037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68269151-6EE3-48FC-B5E5-09272283A037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68269151-6EE3-48FC-B5E5-09272283A037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68269151-6EE3-48FC-B5E5-09272283A037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C697B4-8199-4376-9D9A-E1B42F0819BB}
+	EndGlobalSection
+EndGlobal
